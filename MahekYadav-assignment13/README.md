@@ -2,7 +2,7 @@
 
 A real-time multi-room chat application built with Node.js, Express.js, Socket.io, CORS and an in-memory message history store.
 
-Live link: https://chat-socket-hrcm.onrender.com
+
 ## Features
 
 - User login and socket identity mapping
